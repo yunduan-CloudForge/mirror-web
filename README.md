@@ -1,6 +1,6 @@
 # CloudForge Open Source Mirror Frontend
 
-It is the frontend of the ShanghaiTech Open Source Mirror.
+It is the frontend of the CloudForge Open Source Mirror.
 
 ## Features
 
