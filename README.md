@@ -43,7 +43,11 @@ pnpm start
 Build with this command.
 
 ```bash
+
 pnpm build
 ```
 
 You will get the `dist` folder. Upload it to your server.
+
+### Demo site
+https://mirrors.twenrtyone.top
