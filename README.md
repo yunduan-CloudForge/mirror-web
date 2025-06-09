@@ -50,4 +50,4 @@ pnpm build
 You will get the `dist` folder. Upload it to your server.
 
 ### Demo site
-https://mirrors.twenrtyone.top
+https://mirrors.twentyone.top
