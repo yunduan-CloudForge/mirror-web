@@ -1,8 +1,4 @@
-# ShanghaiTech Open Source Mirror Frontend
-
-![Workflow status](https://github.com/ShanghaitechGeekPie/shanghaitech-mirror-frontend/actions/workflows/docker-image.yml/badge.svg)
-![GitHub stars](https://badgen.net/github/stars/ShanghaitechGeekPie/shanghaitech-mirror-frontend)
-![GitHub forks](https://badgen.net/github/forks/ShanghaitechGeekPie/shanghaitech-mirror-frontend)
+# CloudForge Open Source Mirror Frontend
 
 It is the frontend of the ShanghaiTech Open Source Mirror.
 
